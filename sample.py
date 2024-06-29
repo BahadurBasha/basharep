@@ -5,5 +5,5 @@ def fact(n):
     return result
 
 # Example usage
-number=int(input("enter a number to find factorial : "))
+number=int(input("enter a number to find factorial : \n"))
 print(f"Factorial of {number} (iterative):", fact(number))
